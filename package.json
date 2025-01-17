@@ -2,8 +2,12 @@
   "name": "my-personal-website",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://radhika011.github.io/my-website/",
+  "homepage": "https://radhika011.github.io/my-website/",
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.4.0",
+    "@mui/material": "^6.4.0",
     "cra-template": "1.2.0",
     "gh-pages": "^6.3.0",
     "react": "^19.0.0",
