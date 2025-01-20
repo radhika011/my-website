@@ -16,7 +16,7 @@ import ListItemText from '@mui/material/ListItemText';
 import { Routes, Route, useNavigate } from 'react-router-dom';
 import AboutPage from './about-page/aboutPage';
 import WorkExPage from './workex-page/workexPage';
-
+import EducationPage from './education-page/educationPage';
 const drawerWidth = 240;
 
 const navItems = [
@@ -106,7 +106,7 @@ function App(props) {
         <Routes>
           <Route path="/" element={<AboutPage />} />
           <Route path="/experience" element={<WorkExPage />} />
-          {/* Add more routes here */}
+          <Route path="/education" element={<EducationPage/>}/>
         </Routes>
 
     </Box>
