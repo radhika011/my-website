@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a474e1e6.css",
-    "main.js": "/static/js/main.7eb214ad.js",
-    "static/js/488.e4208ca4.chunk.js": "/static/js/488.e4208ca4.chunk.js",
-    "static/media/workinggirl.gif": "/static/media/workinggirl.239d20358d2b9783793f.gif",
-    "static/media/uiuc.png": "/static/media/uiuc.34958bdcfaf670fc3777.png",
-    "static/media/cummins.jpg": "/static/media/cummins.02a731efc65ac0bc7e43.jpg",
-    "index.html": "/index.html",
-    "main.a474e1e6.css.map": "/static/css/main.a474e1e6.css.map",
-    "main.7eb214ad.js.map": "/static/js/main.7eb214ad.js.map",
-    "488.e4208ca4.chunk.js.map": "/static/js/488.e4208ca4.chunk.js.map"
+    "main.css": "/my-website/static/css/main.a474e1e6.css",
+    "main.js": "/my-website/static/js/main.89046b88.js",
+    "static/js/488.e4208ca4.chunk.js": "/my-website/static/js/488.e4208ca4.chunk.js",
+    "static/media/workinggirl.gif": "/my-website/static/media/workinggirl.239d20358d2b9783793f.gif",
+    "static/media/uiuc.png": "/my-website/static/media/uiuc.34958bdcfaf670fc3777.png",
+    "static/media/cummins.jpg": "/my-website/static/media/cummins.02a731efc65ac0bc7e43.jpg",
+    "index.html": "/my-website/index.html",
+    "main.a474e1e6.css.map": "/my-website/static/css/main.a474e1e6.css.map",
+    "main.89046b88.js.map": "/my-website/static/js/main.89046b88.js.map",
+    "488.e4208ca4.chunk.js.map": "/my-website/static/js/488.e4208ca4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a474e1e6.css",
-    "static/js/main.7eb214ad.js"
+    "static/js/main.89046b88.js"
   ]
 }
