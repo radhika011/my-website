@@ -20,7 +20,7 @@ import EducationPage from './education-page/educationPage';
 const drawerWidth = 240;
 
 const navItems = [
-  { name: 'About', path: '/' },
+  { name: 'About', path: '/my-website' },
   { name: 'Work Experience', path: '/experience' },
   { name: 'Education', path: '/education' },
   { name: 'Projects', path: '/projects' },
@@ -104,7 +104,7 @@ function App(props) {
 
         <Toolbar />
         <Routes>
-          <Route path="/" element={<AboutPage />} />
+          <Route path="/my-website" element={<AboutPage />} />
           <Route path="/experience" element={<WorkExPage />} />
           <Route path="/education" element={<EducationPage/>}/>
         </Routes>
