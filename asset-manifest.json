@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.a474e1e6.css",
-    "main.js": "/my-website/static/js/main.2656ef75.js",
+    "main.css": "/my-website/static/css/main.beb0da39.css",
+    "main.js": "/my-website/static/js/main.484d9a51.js",
     "static/js/488.e4208ca4.chunk.js": "/my-website/static/js/488.e4208ca4.chunk.js",
     "static/media/workinggirl.gif": "/my-website/static/media/workinggirl.239d20358d2b9783793f.gif",
     "static/media/uiuc.png": "/my-website/static/media/uiuc.34958bdcfaf670fc3777.png",
     "static/media/cummins.jpg": "/my-website/static/media/cummins.02a731efc65ac0bc7e43.jpg",
+    "static/media/hmm.png": "/my-website/static/media/hmm.81b659ef91dac4acf7fe.png",
+    "static/media/llm.jpeg": "/my-website/static/media/llm.00e2d270de088d2ff7e6.jpeg",
+    "static/media/bill.png": "/my-website/static/media/bill.855b6d50383c31613594.png",
     "index.html": "/my-website/index.html",
-    "main.a474e1e6.css.map": "/my-website/static/css/main.a474e1e6.css.map",
-    "main.2656ef75.js.map": "/my-website/static/js/main.2656ef75.js.map",
+    "main.beb0da39.css.map": "/my-website/static/css/main.beb0da39.css.map",
+    "main.484d9a51.js.map": "/my-website/static/js/main.484d9a51.js.map",
     "488.e4208ca4.chunk.js.map": "/my-website/static/js/488.e4208ca4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a474e1e6.css",
-    "static/js/main.2656ef75.js"
+    "static/css/main.beb0da39.css",
+    "static/js/main.484d9a51.js"
   ]
 }
