@@ -17,6 +17,8 @@ import { Routes, Route, useNavigate } from 'react-router-dom';
 import AboutPage from './about-page/aboutPage';
 import WorkExPage from './workex-page/workexPage';
 import EducationPage from './education-page/educationPage';
+import ProjectPage from './project-page/projectPage';
+import ContactPage from './contact-page/contactPage';
 const drawerWidth = 240;
 
 const navItems = [
@@ -42,7 +44,7 @@ function App(props) {
   return (
     <Box className="page-container">
       <CssBaseline />
-      {/* Common Header */}
+
       <AppBar component="nav" sx={{ backgroundColor: 'black' }}>
         <Toolbar>
           <IconButton
@@ -75,7 +77,7 @@ function App(props) {
         </Toolbar>
       </AppBar>
 
-      {/* Drawer for Mobile */}
+
       <Box component="nav">
         <Drawer
           container={container}
@@ -100,13 +102,15 @@ function App(props) {
         </Drawer>
       </Box>
 
-      {/* Page Content */}
+
 
         <Toolbar />
         <Routes>
           <Route path="/my-website" element={<AboutPage />} />
           <Route path="/experience" element={<WorkExPage />} />
           <Route path="/education" element={<EducationPage/>}/>
+           <Route path="/projects" element={<ProjectPage/>}/>
+           <Route path="/contact" element={<ContactPage/>}/>
         </Routes>
 
     </Box>

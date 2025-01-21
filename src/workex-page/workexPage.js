@@ -43,7 +43,7 @@ export default function WorkExPage() {
 
                   >
                 <Box component="main" className="experience-box">
-                 <Typography className="bungee-tint-regular" variant="h6"
+                 <Typography className="bungee-tint-regular" variant="h3"
                                                                      component="div" >
                         <p>My Work Experience </p>
 
